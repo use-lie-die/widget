@@ -1,0 +1,56 @@
+:root {
+  color: white;
+}
+
+#widget-container {
+  background-color: rgb(17, 115, 206);
+}
+
+.tag {
+  margin: 0px 20px 0px 20px;
+  width: auto;
+  padding-top: 20px;
+  text-align: justify;
+}
+
+form {
+  max-width: auto;
+  margin: 0px 20px 0px 20px;
+  padding-right: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: justify;
+}
+
+.flex-box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+  padding-left: 20px;
+  margin: 0px;
+}
+
+.flex {
+  margin: 20px;
+  width: auto;
+}
+
+input {
+  padding: 10px;
+  width: auto;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin: 20px;
+  width: auto;
+  background-color: #f3b839;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #e55a00;
+}
